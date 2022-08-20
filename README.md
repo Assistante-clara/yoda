@@ -1,5 +1,3 @@
-# yoda
- parle comme yoda
+Clara parle comme yoda
 
-
-utilisation : Mathilde répète comme yoda (votre phrase)
+Utilisation : Clara répète comme yoda (votre phrase)
